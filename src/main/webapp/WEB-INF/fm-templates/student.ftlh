@@ -22,5 +22,6 @@
   </#if>
 </h2>
 
+<#include "footer.ftlh">
 </body>
 </html>

@@ -30,6 +30,6 @@
   </#list>
 </table>
 
-
+<#include "footer.ftlh">
 </body>
 </html>
