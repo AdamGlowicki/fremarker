@@ -1,6 +1,3 @@
-
-
-
 <html>
 <head>
     <title>Student</title>
@@ -8,6 +5,14 @@
 <body>
 <h2>First name: ${student.firstName}</h2>
 <h2>Last name: ${student.lastName}</h2>
+
+<h2>Grades:
+  <#list student.grades as g>
+      ${g}<#sep>, </#sep>
+  <#else>
+    NO GRADES
+  </#list>
+</h2>
 
 <h2>
   <#if student.active>
@@ -19,4 +24,3 @@
 
 </body>
 </html>
-

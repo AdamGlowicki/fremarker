@@ -14,7 +14,7 @@
 <#--</#list>-->
 <#--</ul>-->
 
-<table>
+<table border="1">
     <tr>
         <th>First name</th>
         <th>Last name</th>
@@ -25,7 +25,7 @@
     <tr>
         <td>${s.firstName}</td>
         <td>${s.lastName}</td>
-        <td><a href="student?id=${s.id}">View</a></td>
+        <td><a href="student?id=${s.id}"></a></td>
     </tr>
   </#list>
 </table>
