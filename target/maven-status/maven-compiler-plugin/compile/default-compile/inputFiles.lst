@@ -1,4 +1,4 @@
-/home/adamglowicki/jjdz5-materialy-freemarker/src/main/java/com/infoshareacademy/repository/StudentRepository.java
-/home/adamglowicki/jjdz5-materialy-freemarker/src/main/java/com/infoshareacademy/freemarker/TemplateProvider.java
-/home/adamglowicki/jjdz5-materialy-freemarker/src/main/java/com/infoshareacademy/web/TestServlet.java
-/home/adamglowicki/jjdz5-materialy-freemarker/src/main/java/com/infoshareacademy/model/Student.java
+/home/adamglowicki/fremarker/src/main/java/com/infoshareacademy/freemarker/TemplateProvider.java
+/home/adamglowicki/fremarker/src/main/java/com/infoshareacademy/web/TestServlet.java
+/home/adamglowicki/fremarker/src/main/java/com/infoshareacademy/model/Student.java
+/home/adamglowicki/fremarker/src/main/java/com/infoshareacademy/repository/StudentRepository.java
